@@ -1,6 +1,7 @@
 # whats_app
 
-WhatsApp clone built with Flutter
+Whatsapp UI  built with Flutter;
+it is compatible and responsive with any type of Android and iOS devices.
 
 ## Getting Started
 
